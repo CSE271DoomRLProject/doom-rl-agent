@@ -46,7 +46,7 @@ networkx==3.2.1
 
 # Development Tools
 jupyter==1.0.0
-jupyterlab==4.0.9
+jupyterlab==4.5.7
 ipython==8.18.1
 tqdm==4.66.1
 
